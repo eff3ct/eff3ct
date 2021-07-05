@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @eff3ct and currently attending Hanyang Univ. CSE
-- 👀 I’m interested in Algorithm, Web Programming
-- 🌱 I’m currently learning Algorithms
+Profile
+-------
+- eff3ct :: CheolMin Choi
+- Hanyang Univ, Dep. of Computer Software Engineering
+- Interested in : Algorithms, Web Programming
+- Currently Learning : Algorithms
 
-- 📫 How to reach me >> effect2110@gmail.com <<
+- Contact >> effect2110@gmail.com <<
 
 - [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110)
 
