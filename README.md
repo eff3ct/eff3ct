@@ -1,7 +1,7 @@
 Profile
 -------
 - eff3ct :: CheolMin Choi
-- Hanyang Univ, Dep. of Computer Software Engineering
+- Hanyang Univ, Dept. of Computer Software Engineering
 - Interested in : Algorithms, Web Programming
 - Currently Learning : Algorithms
 
