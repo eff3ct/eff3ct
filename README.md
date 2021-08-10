@@ -9,6 +9,7 @@ Profile
 
 - [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110)
 
+- [BLOG](https://www.eff3ct.github.io/)
 
 <!---
 eff3ct/eff3ct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
