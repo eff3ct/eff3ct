@@ -10,7 +10,8 @@ Profile
 
 - Contact >> effect2110@gmail.com <<
 
-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110)
+- <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110) -->
+- ![Solvedac Profile v2](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=effect2110)
 
 - [BLOG](https://eff3ct.github.io/)
 
