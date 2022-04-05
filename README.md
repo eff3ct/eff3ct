@@ -5,12 +5,12 @@ Profile
 -------
 - eff3ct :: CheolMin Choi
 - Hanyang Univ, Dept. of Computer Software Engineering
-- Interested in : Algorithms, ML, Web Programming
-- Currently Learning : Algorithms, ML
+- Interested in : Algorithms, ML
+- Currently Learning : Algorithms
 
 - Contact >> effect2110@gmail.com <<
 
-- <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110) -->
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110) -->
 - ![Solvedac Profile v2](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=effect2110)
 
 - [BLOG](https://eff3ct.github.io/)
