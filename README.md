@@ -5,7 +5,7 @@ Profile
 -------
 - eff3ct :: CheolMin Choi
 - Hanyang Univ, Dept. of Computer Software Engineering
-- Interested in : Algorithms, DBMS
+- Interested in : DBMS, Parallelism Computing
 ---
 * <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
