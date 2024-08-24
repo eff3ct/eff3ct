@@ -6,7 +6,7 @@ Profile
 - eff3ct :: CheolMin Choi
 - B.S. in Computer Science, Hanyang University (21.03 ~ 24.08)
 - M.S. Student, Seoul Nat'l Univ, Graduate School of Data Science (24.09 ~ present / in Data Lakehouse Platforms Lab)
-- Interested in : Database
+- Interested in : Database, OS
 ---
 * <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
