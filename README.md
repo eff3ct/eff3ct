@@ -3,16 +3,12 @@
 
 Profile
 -------
-- eff3ct :: CheolMin Choi
+- eff3ct; Cheolmin Choi
 - B.S. in Computer Science, Hanyang University (21.03 ~ 24.08)
-- M.S. Student, Seoul Nat'l Univ, Graduate School of Data Science (24.09 ~ present / in DBX Lab)
-- Interested in : DB-OS Co-design
+- M.S. in Data Science, Seoul National University (24.09 - 26.09 DBX Lab) (Researched about database and operating system co-design.)
+- SW Engineer (Intern) @ FuriosaAI (26.07 - Now)
+- Interested in : LLM Serving Systems, OS Kernel
 - Contact: effect2110@gmail.com
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=effect2110)](https://solved.ac/effect2110) -->
-![Solvedac Profile v2](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=effect2110)
-
-- [BLOG](https://eff3ct.github.io/)
 
 <!---
 eff3ct/eff3ct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
